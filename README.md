@@ -1,12 +1,10 @@
-![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hi%20there👋&fontAlign=70&rotate=13&fontAlignY=25&desc=seulzzang's%20GitHub&descAlign=70.&descAlignY=44)
 
-<br>
-<br>
+
 <div align="center">
 
- 
+ <h2> Hi there 👋</h2>
   
-   <h4>안녕하세요! 코딩에 빠져 백엔드 개발자가 되기 위해 노력 중인 신입 개발자 김현규입니다. </h3>
+   <h3> 코딩에 빠져 백엔드 개발자가 되기 위해 노력 중인 신입 개발자 김현규입니다. </h3>
 </div>
 <br>
 
