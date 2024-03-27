@@ -2,7 +2,7 @@
 
 <div align="center">
 
- <h2> Hi there 👋</h2>
+ <h1> Hi there 👋</h1>
   
    <h3> 코딩에 빠져 백엔드 개발자가 되기 위해 노력 중인 신입 개발자 김현규입니다. </h3>
 </div>
